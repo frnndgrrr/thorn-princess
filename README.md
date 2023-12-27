@@ -1,2 +1,2 @@
-# thorn-princess
+# Thorn Princess Project
 React Tetris Game
